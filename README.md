@@ -2,7 +2,7 @@
 
 Static invitation page — **Sunday 9 Sept 2026, 12:00 PM · Cook Park Picnic Grounds, Ramsgate Beach.**
 
-Live: https://eka-bot-account.github.io/hannah-invitation/
+Live: https://yen223.github.io/hannah-invitation/
 
 ## Files
 
@@ -27,5 +27,5 @@ Open `index.html` and edit directly. Things you'll likely want:
 ## Note after transferring the repo
 
 The `og:image` / `twitter:image` meta tags use an absolute URL pointing at
-`eka-bot-account.github.io`. After transferring the repo to another account, update those two
+`yen223.github.io`. After transferring the repo to another account, update those two
 URLs to the new Pages domain, or link previews will break.

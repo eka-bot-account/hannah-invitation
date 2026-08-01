@@ -1,6 +1,6 @@
 # Hannah's 1st Birthday Invitation
 
-Static invitation page — **Sunday 9 Sept 2026, 12:00 PM · Cook Park Picnic Grounds, Ramsgate Beach.**
+Static invitation page — **Sunday 6 Sept 2026, 12:00 PM · Cook Park Picnic Grounds, Ramsgate Beach.**
 
 Live: https://yen223.github.io/hannah-invitation/
 
@@ -24,7 +24,7 @@ Open `index.html` and edit directly. Things you'll likely want:
 
 | What | Where |
 | --- | --- |
-| Date / time | `Sunday · 9 Sept 2026 · 12:00 PM` |
+| Date / time | `Sunday · 6 Sept 2026 · 12:00 PM` |
 | Venue | `Ramsgate Beach` / `Cook Park Picnic Grounds` |
 | Accent colour | `#e59a86` (appears several times) |
 | Phone layout | the `@media (max-width: 560px)` block |
